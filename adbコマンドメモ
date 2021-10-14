@@ -1,0 +1,43 @@
+neko@neko-PC-NS600GAW:~$ adb shell pm list packages ntt
+package:com.nttdocomo.android.dcmvoicerecognition
+package:jp.co.nttdocomo.lcsapp	<<>>
+package:com.nttdocomo.android.wipe	<<>>
+package:com.nttdocomo.android.anmane2
+package:com.nttdocomo.android.databackup
+package:com.nttdocomo.android.screenlockservice
+package:com.nttdocomo.android.osv.res.overlay_305
+package:com.nttdocomo.android.iconcier	<<>>
+package:com.rsupport.rsperm.ntt
+package:com.nttdocomo.android.schedulememo	<<>>
+package:com.nttdocomo.android.pf.dcmwappush	//ドコモメールのプッシュ通知用
+package:com.nttdocomo.android.gs.utility
+package:jp.co.nttdocomo.anshinmode	<<>>
+package:com.nttdocomo.android.iconcier_contents	<<>>
+package:com.nttdocomo.android.docomoset
+package:com.nttdocomo.android.applicationmanager	<<>>
+package:com.nttdocomo.android.apnsw
+package:com.nttdocomo.android.dhome
+package:com.nttdocomo.android.ictrw	//icタグリーダー
+package:com.nttdocomo.android.store
+package:com.nttdocomo.android.docomo_market	<<>>
+package:com.nttdocomo.android.atf
+package:com.nttdocomo.android.osv
+package:com.nttdocomo.android.keyguard
+package:com.nttdocomo.android.bugreport
+package:com.nttdocomo.android.tapandpay	<<>>
+package:com.nttdocomo.android.pf.dcmippushaggregator
+package:com.nttdocomo.android.cloudset	<<>>
+package:jp.co.nttdocomo.bridgelauncher
+package:jp.co.nttdocomo.lcsappsub
+package:com.nttdocomo.android.accountauthenticator
+package:com.nttdocomo.android.idmanager	<<>>
+package:com.nttdocomo.android.voiceeditor
+package:com.nttdocomo.android.mediaplayer
+package:com.nttdocomo.android.sdcardbackup
+package:com.nttdocomo.android.socialphonebook
+package:jp.co.nttdocomo.saigaiban	<<>>
+package:com.nttdocomo.android.initialization	<<>>
+package:jp.co.nttdocomo.carriermail	<<>>
+package:com.nttdocomo.android.areamail
+package:com.nttdocomo.android.remotelock
+
