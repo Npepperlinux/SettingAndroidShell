@@ -10,14 +10,22 @@ Ubuntu 20.04 LTS (Linuxでadb使えればそんなに問題無いと思うけど
 ターミナルで'SettingAndroidShell/SHELL'でSHELLに'BASIO.sh au.sh docomo_only.sh google.sh xperia.sh'のいずれかを指定して入力すると作業が始まります。
 # 削除候補
 Google LCC配信のアプリケーション
+
 auプリインストールアプリケーション
+
 docomoプリインストールアプリケーション
+
 facebookを含むプリインストールアプリケーション
+
 Xperiaシリーズのプリインストールアプリケーション
+
 BASIO4のプリインストールアプリケーション
-その他悪意のあるアプリケーション ※作成者の視点から「インストールされるべきではないアプリケーション」を選定して登録しています
+
+その他悪意のあるアプリケーション ※作成者の視点から「インストールされるべきではないアプリケーション」を選定して登録しています。あまり精度は良くないです。
+# 注意
+現在、Xperia Z4 Tabletで`docomo.sh, xperia.sh`を実行中にデバイスが強制的に再起動する現象を確認しています。
 # 今後の予定
-LinuxのshだけでなくWindows上でも動作できるよう開発中です。
+LinuxのshだけでなくWindows上でも動作できるよう調整中です。
 # Licence
 These codes are licensed CC BY 4.0,see LICENSE.
 
