@@ -7,7 +7,7 @@ Ubuntu 20.04 LTS (Linuxでadb使えればそんなに問題無いと思うけど
 このツールを使用するコンピュータに対象のAndroidデバイス以外が接続されている場合は、事前にデバイスとの接続を止めてください。
 このツールにはデバイスを認識して動作を変更する機能がありません。
 # 使い方 (未実装)
-ターミナルで'SettingAndroidShell/SHELL'でSHELLに'BASIO.sh au.sh docomo_only.sh google.sh xperia.sh'のいずれかを指定して入力すると作業が始まります。
+ターミナルで`SettingAndroidShell/SHELL`でSHELLに`BASIO.sh au.sh docomo_only.sh google.sh xperia.sh`のいずれかを指定して入力すると作業が始まります。
 # 削除候補
 Google LCC配信のアプリケーション
 
